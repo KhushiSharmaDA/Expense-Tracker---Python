@@ -1,0 +1,19 @@
+Date,Category,Description,Payment_Mode,Amount,Type
+01-01-2025,Salary,January Salary,Bank Transfer,50000,Income
+01-02-2025,Groceries,Supermarket shopping,UPI,1500,Expense
+01-03-2025,Rent,Monthly house rent,Bank Transfer,10000,Expense
+01-05-2025,Entertainment,Movie & Snacks,Cash,800,Expense
+01-06-2025,Investment,Mutual Fund SIP,Bank Transfer,2000,Expense
+01-08-2025,Freelance Income,Website project,UPI,7000,Income
+01-10-2025,Utilities,Electricity Bill,UPI,1200,Expense
+01-12-2025,Health,Doctor visit,Cash,600,Expense
+1/14/2025,Transport,Fuel refill,UPI,1500,Expense
+1/15/2025,Bonus,Performance bonus,Bank Transfer,5000,Income
+1/18/2025,Food Delivery,Swiggy/Zomato,UPI,450,Expense
+1/20/2025,Shopping,Clothes purchase,Credit Card,2500,Expense
+1/22/2025,Groceries,Monthly essentials,UPI,1300,Expense
+1/24/2025,Rent,Monthly house rent,Bank Transfer,10000,Expense
+1/26/2025,Internet,Wi-Fi recharge,UPI,700,Expense
+1/28/2025,Freelance Income,Data entry project,UPI,4000,Income
+1/30/2025,Health,Medicines,Cash,900,Expense
+1/31/2025,Interest,Bank Interest,Bank Transfer,3000,Income
